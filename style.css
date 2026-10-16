@@ -1,0 +1,65 @@
+* {
+    font-family: 'Space Grotesk', 'sans-serif';
+}
+
+.container,
+.container-fluid {
+    background: #1B1B1F;
+    color: white !important;
+}
+
+.nav, .navbar, footer {
+    background: #0D0E11 !important;
+}
+
+.navbar {
+    border-bottom: 1px solid #2e2e33;
+}
+
+.navbar-brand,
+.nav-link {
+    color: white !important;
+}
+
+.headline {
+    font-family: 'Oswald', 'sans-serif';
+}
+
+.filler {
+    background-color: #0D0E11 !important;
+}
+
+#hero button {
+    color: white;
+}
+
+#hero img {
+    box-shadow: 1px 2px 88px -21px rgba(247, 8, 8, 0.75);
+    -webkit-box-shadow: 1px 2px 88px -21px rgba(247, 8, 8, 0.75);
+    -moz-box-shadow: 1px 2px 88px -21px rgba(247, 8, 8, 0.75);
+}
+
+.card {
+    border: 1px solid rgb(41, 41, 41) !important;
+    background: #0D0E11 !important;
+    color: white;
+}
+
+.card-body, .card-footer {
+    background: #1B1B1F !important;
+}
+
+.subscribe-btn {
+    background: rgb(163, 238, 78);
+    color: rgb(76, 126, 11);
+}
+
+.subscribe-btn:hover {
+    background: rgb(137, 199, 66);
+}
+
+footer .container-fluid {
+    color: white;
+    background: #0D0E11 !important;
+    border-top: 1px solid rgb(44, 44, 44);
+}
